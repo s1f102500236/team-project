@@ -1,8 +1,9 @@
 body {
-    background-color: #fffd6d;
+    background-color: #c5c5c5;
     color: #fff;
     padding: 20px;
     text-align: center;
+    position: relative;
 }
 
 h1 {
