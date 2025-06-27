@@ -1,8 +1,23 @@
-h1 {
-    font-weight: 200;
-    font-family: sans-serif
+body {
+    background-color: #ffa7a7;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
 
-body {
-    background-color: #ffffff;
+h1 {
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+}
+
+span {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
 }
