@@ -5,6 +5,11 @@ h1 {
     border: 1px solid #006E12;
 }
 
+main {
+    background-image: url("pexels-daniela-elena-tentis-118658-691114.jpg");
+    background-size: cover;
+}
+
 body {
     background-color: #ffffff;
 }
