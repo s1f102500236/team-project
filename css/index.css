@@ -13,3 +13,7 @@ main {
 body {
     background-color: #ffffff;
 }
+
+.main {
+    display: flex;
+}
