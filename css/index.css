@@ -1,15 +1,24 @@
+body {
+    background-color: #800000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
 h1 {
-    font-weight: 200;
-    font-family: sans-serif;
-    background-color: #ff0000;
-    border: 1px solid #006E12;
+    margin-bottom: 10px;
+    font-size: 1.8rem;
+}
+
+span {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 main {
-    background-image: url("pexels-daniela-elena-tentis-118658-691114.jpg");
-    background-size: cover;
-}
-
-body {
-    background-color: #ffffff;
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
 }
