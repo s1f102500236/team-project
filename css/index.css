@@ -6,8 +6,12 @@ body {
 }
 
 h1 {
+    margin-top: 5px;
     margin-bottom: 10px;
+    width: 100%;
     font-size: 60px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/29/21/43/flag-2694986_1280.jpg") ;
+    opacity: 0.8;
 }
 
 span {
