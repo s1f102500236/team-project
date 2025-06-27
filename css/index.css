@@ -1,6 +1,8 @@
 h1 {
     font-weight: 200;
-    font-family: sans-serif
+    font-family: sans-serif;
+    background-color: #ff0000;
+    border: 1px solid #006E12;
 }
 
 body {
