@@ -1,13 +1,17 @@
 body {
-    background-color: #ffa7a7;
+    background-color: #fffd6d;
     color: #fff;
     padding: 20px;
     text-align: center;
 }
 
 h1 {
+    margin-top: 5px;
     margin-bottom: 10px;
-    font-size: 1.8rem;
+    width: 100%;
+    font-size: 60px;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/29/21/43/flag-2694986_1280.jpg") ;
+    opacity: 0.8;
 }
 
 span {
@@ -20,4 +24,9 @@ span {
 .main {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+}
+
+h2 {
+    font-size: 35px;
 }
