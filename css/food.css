@@ -1,7 +1,8 @@
-div {
+body {
     background-color: #ffa7a7
 }
 
-h1 {
-    background-color: #ffffff;
+
+.home {
+    font-size: 20px;
 }
