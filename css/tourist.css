@@ -1,5 +1,11 @@
+body {
+    background: #6ad475
+                linear-gradient(#00000090,10%,#00000000) top/ 100% 100pt no-repeat;
+    font-family: sans-serif;
+}
+
 h1 {
-    background-color: #6ad475;
+    background-color: #ffffff6c;
 }
 
 .home {

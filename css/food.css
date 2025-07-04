@@ -1,7 +1,16 @@
 body {
-    background-color: #ffa7a7
+    background: #ffa7a7
+                linear-gradient(#00000090,10%,#00000000) top/ 100% 100pt no-repeat;
+    font-family: sans-serif;
 }
 
+h1 {
+    background-color: #ffffff6c;
+}
+
+.list {
+    background: #ff8c3a90 left / 500pt 100% no-repeat;
+}
 
 .home {
     font-size: 20px;
